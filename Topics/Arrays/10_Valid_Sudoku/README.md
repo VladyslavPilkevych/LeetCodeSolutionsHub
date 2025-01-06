@@ -18,7 +18,7 @@ Determine if a `9 x 9` Sudoku board is valid. Only the filled cells need to be v
 
 ### Example 1:
 
-![Example 1](./img.png "Optional Title")
+![Example 1](./img.png "Example img 1")
 
 **Input**: `board =
 [["5","3",".",".","7",".",".",".","."]
